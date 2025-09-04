@@ -49,11 +49,3 @@ Get instant feedback on your answers.
 After all questions, check your results and score.
 
 Option to restart the quiz and try again.
-
-🌈 Customization
-
-Change quiz questions in src/reducer.js or dedicated question files.
-
-Update colors in src/styles.css (uses pastel variables).
-
-Add/remove pages inside src/pages/.
