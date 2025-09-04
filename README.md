@@ -1,4 +1,4 @@
-🎮 Quiz Game App
+h🎮 Quiz Game App
 
 A fun and interactive quiz game built with React and styled with a pastel theme. Players can start from a welcome screen, answer timed questions, and view their results at the end.
 
@@ -50,4 +50,4 @@ After all questions, check your results and score.
 
 Option to restart the quiz and try again.
 #Live demo
-You can try the app here quiz-appgame.netlify.app
+You can try the app here https://quiz-appgame.netlify.app
