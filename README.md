@@ -49,3 +49,5 @@ Get instant feedback on your answers.
 After all questions, check your results and score.
 
 Option to restart the quiz and try again.
+#Live demo
+You can try the app here quiz-appgame.netlify.app
